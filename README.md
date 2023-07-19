@@ -1,4 +1,4 @@
-# SpeedTypingTest
+# TypingSpeedGame
 
 The SpeedTypingTest is a speed typing test game that allows you to measure your typing speed. This game is made in Python using the `curses` library for the console-based user interface.
 
